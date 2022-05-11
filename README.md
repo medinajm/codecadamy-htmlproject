@@ -1,4 +1,4 @@
-# codecadamy-htmlproject
+# codecademy-htmlproject
 
 ## Codecademy Project
 ### HTML Cheetsheets
