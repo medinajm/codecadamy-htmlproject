@@ -25,12 +25,10 @@ color:  hsl(200, 70%, 75%);
 #code {
 font-family: Consolas, monospace;
 font-size: 14;
-}
-
-#inlinecode {
-font-family: consolas;
 background-color: lightgrey;
 }
+
+
 
 footer {
 text-align: left;
